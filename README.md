@@ -10,7 +10,7 @@ O sistema proposto tem como objetivo analisar o impacto do uso de Test-Driven De
 Para isso, serão desenvolvidas duas versões de um mesmo sistema simples com interação com o usuário (como um gerenciador de tarefas ou sistema de cadastro):
 
 - Uma versão utilizando TDD, onde os testes são escritos antes da implementação.
-- Outra versão sem TDD, onde o código é gerado diretamente e os testes não guiam o desenvolvimento.
+- Outra versão sem TDD, onde o código é criado diretamente e os testes não guiam o desenvolvimento. (Pra validar que os contexto gerado consegue manter funcionalidades e expectativas geradas mesmo com apenas o TDD e o uso de agentes de IA)
 
 A comparação entre as duas abordagens permitirá avaliar diferenças na qualidade, organização e facilidade de manutenção do código.
 
